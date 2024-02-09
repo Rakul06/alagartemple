@@ -186,13 +186,14 @@
         height: 105px;
         width: 100vw;
         display: flex;
+        margin-top: -3px;
         /* justify-content: center; */
         /* align-items: center; */
         
       }
       #s-img{
-        width: 100px;
-        height: 100px;
+        width: 90px;
+        height: 90px;
         margin-right: 2px;
       }
       .sub-content{
