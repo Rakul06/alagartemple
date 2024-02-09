@@ -186,7 +186,7 @@
         height: 105px;
         width: 100vw;
         display: flex;
-        margin-top: -3px;
+        margin-top: -5px;
         /* justify-content: center; */
         /* align-items: center; */
         
@@ -195,6 +195,7 @@
         width: 90px;
         height: 90px;
         margin-right: 2px;
+        margin-top: 9px;
       }
       .sub-content{
         display: flex;
