@@ -213,5 +213,6 @@
       .atag{
         margin-top: -12px;
         font-size: x-small;
+        text-align: justify;
       }
   }
