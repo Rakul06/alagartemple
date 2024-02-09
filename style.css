@@ -185,7 +185,6 @@
       .obj-code{
         height: 105px;
         width: 100vw;
-        margin-top: -10px;
         display: flex;
         /* justify-content: center; */
         /* align-items: center; */
@@ -193,7 +192,7 @@
       }
       #s-img{
         width: 100px;
-        height: 105px;
+        height: 100px;
         margin-right: 2px;
       }
       .sub-content{
