@@ -209,4 +209,9 @@
       .main-container li{
         font-size: x-small;
       }
+
+      .atag{
+        margin-top: -12px;
+        font-size: x-small;
+      }
   }
